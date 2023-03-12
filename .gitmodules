@@ -1,0 +1,3 @@
+[submodule "01-start"]
+	path = 01-start
+	url = https://github.com/akraptor6/01-start.git

@@ -1,1 +1,0 @@
-This is child repository
